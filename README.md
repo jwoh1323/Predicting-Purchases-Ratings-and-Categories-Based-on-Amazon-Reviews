@@ -1,4 +1,4 @@
-#Predicting Purchases, Ratings, and Categories Based on Amazon Reviews**
+# Predicting Purchases, Ratings, and Categories Based on Amazon Reviews**
 
 This repsoitory contains the codes used for each prediction task. <br />
 For the rating prediction task, we implemented a latent factor model with regularization. <br />
