@@ -1,8 +1,3 @@
-# Machine Learning for Business Applications 2 Final Project - Group 4
-
-
-*Steven Luong, Emma MacKay, Jinwoo Oh, Thao Spraggins*
-
 **Predicting Purchases, Ratings, and Categories Based on Amazon Reviews**
 
 This repsoitory contains the codes used for each prediction task. <br />
