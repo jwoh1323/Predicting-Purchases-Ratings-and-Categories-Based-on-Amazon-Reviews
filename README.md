@@ -13,7 +13,7 @@ Amazon Review data
 
 ## Languages & Tools used 
 
-Python, Pandas, MXNet
+Google Colab, Python, Pandas, MXNet
 
 ## Table of Contents
 * [Rating Prediction](https://github.com/jwoh1323/Predicting-Purchases-Ratings-and-Categories-Based-on-Amazon-Reviews/blob/46e2f56f97a3f91c4b874b926a33b7e1eb48c461/RatingPredictions_Final.ipynb)
